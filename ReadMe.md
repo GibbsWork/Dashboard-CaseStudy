@@ -2,7 +2,7 @@
 
 
 <h4> *In development* </h4>
-<h4> https://gibbswork-dashboard-dashboard-y78wz9.streamlitapp.com/ </h4>
+<h4> https://gibbswork-dashboard-casestudy-dashboard-xuacpu.streamlit.app/ </h4>
 <h4>Compare up to three assets </h4>
 
 ![image](https://user-images.githubusercontent.com/111964501/186374037-b2ddb642-aa65-43c5-ac96-ae4d9c8ec383.png)
